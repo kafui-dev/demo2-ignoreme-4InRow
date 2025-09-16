@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="demo2-ignoreme-4InRow">
+    <output-path>$PROJECT_DIR$/out/artifacts/demo2_ignoreme_4InRow</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="org.example.demo2ignoreme4inrow.FourInRowApp" />
+        <option name="convertCss2Bin" value="true" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="windowsIcon" value="$PROJECT_DIR$/src/main/resources/images/devk.ico" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="title" value="FourInRowApp" />
+        <option name="vendor" value="" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="demo2_ignoreme_4InRow.jar">
+        <element id="module-output" name="demo2-ignoreme-4InRow" />
+      </element>
+    </root>
+  </artifact>
+</component>
